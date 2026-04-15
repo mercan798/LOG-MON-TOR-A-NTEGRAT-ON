@@ -12,6 +12,17 @@ AI
 
 -ollama pull llama3
 
+folder structure;
+--
+
+-ai.py
+-app.log
+-event.py
+-livelog.py
+-log-ai.py
+-main.py
+-parser.py
+
 
 
 
@@ -23,8 +34,16 @@ The test results;
 THE SYSTEM : <img width="831" height="904" alt="Screenshot from 2026-04-05 22-11-03" src="https://github.com/user-attachments/assets/803e5025-81a1-4530-8912-41ebc9205c14" />
 
 
+What if you have 500 error at once ?
+--
+The test resoulds;
+  - It took 1 and a half day that AI read it and explain us.
+  -Every log explain took 3 or 4 minutes .
+  -    the test videos;
+  -   https://www.youtube.com/watch?v=1nRRedCF4qo&t=107s
 
-NOT: When you run it and enter the log file and watcher catch the error , ai response might be take some 1 minute.
+
+When you run it and enter the log file and watcher catch the error , ai response might be take some 1 minute.
 
 
 
